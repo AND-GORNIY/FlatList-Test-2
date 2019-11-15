@@ -1,4 +1,3 @@
-//@flow
 import {useState, useCallback} from 'react';
 import {patientData} from '../PatientData/patientData';
 
